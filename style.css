@@ -571,6 +571,9 @@ p {
   font-size: 16px;
   line-height: 22px;
 }
+.article__primtext a {
+  color: #337AB7;
+}
 .article__p {
   padding: 0 0 15px 0;
 }
